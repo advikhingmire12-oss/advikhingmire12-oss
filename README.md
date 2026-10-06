@@ -1,8 +1,7 @@
 <div align="center">
 
-### Computer Science student | C++ | AI and Machine Learning
+### AI and Machine Learning
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-learning-8A2BE2?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -15,31 +14,29 @@
 
 ## About
 
-I'm a Computer Science student building a foundation in programming and artificial intelligence. I'm strengthening core software engineering with Object-Oriented Programming in C++, while exploring AI and machine learning.
+I'm building a career in artificial intelligence and machine learning. I'm learning how models are designed, trained and evaluated, backed by a solid grounding in object-oriented programming and clean, documented code.
 
-## What I'm working on
+## Focus areas
 
-- **Object-Oriented Programming in C++**: classes, constructors, destructors, the `this` pointer and inheritance (single, multilevel, hierarchical)
-- **AI and Machine Learning**: learning the fundamentals alongside my coursework
-- **Version control**: keeping my work organised and documented on GitHub
+- **Machine learning fundamentals**: supervised and unsupervised learning, model training and evaluation
+- **Applied AI**: turning concepts into small working projects
+- **Engineering practice**: version control, clear documentation and reproducible work on GitHub
 
 ## Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [oop-practical-assignments](https://github.com/advikhingmire12-oss/oop-practical-assignments) | Nine OOP practicals modelling real-world scenarios (book inventory, student and employee records, vehicle hierarchy), each with source code and output screenshots | C++ |
+| Project | Description |
+|---------|-------------|
+| [oop-practical-assignments](https://github.com/advikhingmire12-oss/oop-practical-assignments) | Nine object-oriented programming practicals modelling real-world scenarios, each with source code and output screenshots |
 
-## Skills
+## Tools
 
-**Languages:** C++, Python
-**Concepts:** OOP, inheritance, encapsulation, constructors and destructors, data structures basics
-**Tools:** Git, GitHub, VS Code, GDB
+**Language:** Python
+**Tools:** Git, GitHub, VS Code
 
 ## GitHub stats
 
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=advikhingmire12-oss&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=advikhingmire12-oss&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
